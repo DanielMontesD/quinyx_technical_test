@@ -32,6 +32,6 @@ To solve the problem, I first read the assignment carefully to understand what w
 
 For Part 2, I simply checked that the data was complete and proceeded to manipulate the DataFrame using Pandas functions.
 
-5.Are there any other key experiences/notes that you would like us to know in regard to your experience in taking the test?
+5. Are there any other key experiences/notes that you would like us to know in regard to your experience in taking the test?
 
 I don't have much to add, except that it was great to revisit something I'm passionate about and see that I could successfully make it work.
