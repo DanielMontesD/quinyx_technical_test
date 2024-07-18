@@ -12,6 +12,7 @@ For Task 2, Part 1:
 Fortunately for me, I had used Flask in my last university project, so I had some knowledge about how it works, which made it easier to create the application. I would say my biggest problem was remembering how GitHub works to make commits and push requests. However, the most challenging part was getting the link http://localhost:5000/getJokes to work. This part took the most time because I got stuck here. As you can see in the code, I solved it by accessing another URL that I found on the web for this purpose.
 
 For Task 2, Part 2:
+
 I found it to be a straightforward and generally simple task. I had to refresh my memory a bit, but I have used Pandas on multiple occasions, such as in university or courses. The part that took the most time was understanding how to format the 'Time' column as shown in the provided image since I had never seen this type of format before. After researching online, I found that it was formatted using ISO8601, but even then, it didn't give me the exact format. Using the code I found, I formatted as %Y-%m-%dT%H:%M:%SZ but this didn’t work so I manually added the zeros with %Y-%m-%dT%H:%M:%S.0000000Z.
 
 3.	What resources did you use to learn how to solve the test (i.e. Google, forums, books)?
